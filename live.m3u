@@ -1,5 +1,95 @@
 #EXTM3U
+#EXTINF:-1,US:AMC HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1448.ts
+#EXTINF:-1,US:A&E HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1378.ts
+#EXTINF:-1,US:American Heroes HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5893.ts
+#EXTINF:-1,US:Animal Planet HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1449.ts
+#EXTINF:-1,US:BBC America HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/3683.ts
+#EXTINF:-1,US:Bravo HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1390.ts
+#EXTINF:-1,US:CMT HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5871.ts
+#EXTINF:-1,US:Comedy Central HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/2105.ts
+#EXTINF:-1,US:Discovery Science HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1455.ts
+#EXTINF:-1,US:Discovery Life HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5887.ts
+#EXTINF:-1,US:Discovery HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1454.ts
+#EXTINF:-1,US:Nat Geo HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1377.ts
+#EXTINF:-1,US:NAT GEO WILD HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1469.ts
+#EXTINF:-1,US:TLC HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5892.ts
+#EXTINF:-1,US:FX HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/3668.ts
+#EXTINF:-1,US:FXX HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/3667.ts
+#EXTINF:-1,US:FX Movie Channel
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5888.ts
+##EXTINF:-1,US:Hallmark Movies & Mysteries HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5878.ts
+#EXTINF:-1,US:History Channel HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1466.ts
+#EXTINF:-1,US:Spike HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1432.ts
+#EXTINF:-1,US:Turner Classic Movies HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5894.ts
+#EXTINF:-1,US:TBS HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/2106.ts
+#EXTINF:-1,US:USA Network HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/2067.ts
+##EXTINF:-1,US:Sundance HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/3656.ts
 #EXTINF:-1,US:CNN HD
 http://nitrotv.for-the.biz:25461/live/roberto/roberto/1452.ts
+#EXTINF:-1,US:MSNBC HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1468.ts
 #EXTINF:-1,US:Fox News HD
 http://nitrotv.for-the.biz:25461/live/roberto/roberto/1406.ts
+#EXTINF:-1,US:Starz HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1434.ts
+#EXTINF:-1,US:Starz Edge HD
+http://nitrotv.for-thebiz:25461/live/roberto/roberto/1433.ts
+#EXTINF:-1,US:Sony Movie Channel HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1415.ts
+#EXTINF:-1,US:MGM HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1393.ts
+#EXTINF:-1,US:EPIX HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5874.ts
+#EXTINF:-1,US:EPIX2 HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5875.ts
+#EXTINF:-1,US:EPIX 3 HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/3671.ts
+#EXTINF:-1,US:Cinemax HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1394.ts
+#EXTINF:-1,US:Cinemax Moremax HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5870.ts
+#EXTINF:-1,US:Cinemax Thrillermax HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/3679.ts
+#EXTINF:-1,US:Showtime HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/3670.ts
+#EXTINF:-1,US:Showtime 720
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/8186.ts
+#EXTINF:-1,US:Showtime 2 HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/5883.ts
+#EXTINF:-1,US:HBO HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1464.ts
+#EXTINF:-1,US:HBO 720
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/7821.ts
+#EXTINF:-1,US:HBO 2 HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/2444.ts
+#EXTINF:-1,US:ESPN 720p
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/7508.ts
+#EXTINF:-1,US:ESPN HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1401.ts
+#EXTINF:-1,US:ESPN 2 HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1403.ts
+#EXTINF:-1,US:ESPN News HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1402.ts

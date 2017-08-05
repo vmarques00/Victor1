@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1,US:CNN HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1452.ts
+#EXTINF:-1,US:Fox News HD
+http://nitrotv.for-the.biz:25461/live/roberto/roberto/1406.ts
